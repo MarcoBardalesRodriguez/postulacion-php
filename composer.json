@@ -1,5 +1,5 @@
 {
-    "name": "digitalocean-apps/sample-php",
+    "name": "MarcoBardalesRodriguez/postulacion-php",
     "description": "Sample PHP application for App Platform",
     "type": "project",
     "require": {
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "Kamal Nasser",
-            "email": "kamal@digitalocean.com"
+            "name": "MarcoBardalesRodriguez",
+            "email": "marcoantoniobardalesrodriguez@gmail.com"
         }
     ]
 }

@@ -1,8 +1,8 @@
 spec:
-  name: sample-php
+  name: postulacion-php
   services:
   - environment_slug: php
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-php.git
-    name: sample-php
+      repo_clone_url: https://github.com/MarcoBardalesRodriguez/postulacion-php.git
+    name: postulacion-php
